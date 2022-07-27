@@ -189,7 +189,7 @@ class _AddTaskPageState extends State<AddTaskPage> {
                 height: 10,
               ),
               Row(
-                crossAxisAlignment: CrossAxisAlignment.center,
+                // crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
 
                   MyButton(
