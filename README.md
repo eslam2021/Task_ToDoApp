@@ -10,8 +10,10 @@
 
 # 📱 Screenshots #
 
+![WhatsApp Image 2022-07-27 at 10 56 10 PM (1)](https://user-images.githubusercontent.com/70212574/181376465-37de2c99-b2de-45f1-8e5b-cd881b69aa3a.jpeg)
+![WhatsApp Image 2022-07-27 at 10 56 10 PM](https://user-images.githubusercontent.com/70212574/181376475-8273474c-ea45-4827-a32d-025a1177f5fe.jpeg)
+![WhatsApp Image 2022-07-27 at 10 56 11 PM](https://user-images.githubusercontent.com/70212574/181376484-c647b059-73e5-4f8b-9929-8e763fae90c1.jpeg)
 
-![WhatsApp Image 2022-07-27 at 10 56 10 PM (1)](https://user-images.githubusercontent.com/70212574/181376241-4b9459b4-aea9-465a-93d4-766cf94524a2.jpeg)
 
 # 📱 Video Screen #
 
