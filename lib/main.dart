@@ -9,6 +9,7 @@ import 'ui/pages/home_page.dart';
 void main() async {
 //comment
 //comment
+//comment
 
   WidgetsFlutterBinding.ensureInitialized();
   await DBHelper.initDb();
